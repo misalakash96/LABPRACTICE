@@ -1,0 +1,4 @@
+#git clone with token
+
+git clone https://{add your token here}@github.com/misalakash96/LABPRACTICE.git
+
